@@ -1,0 +1,32 @@
+{
+  "name": "aspernatureos",
+  "version": "1.0.0",
+  "description": "A functional reactive model library",
+  "main": "dist/model.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarsonMayert/aspernatureos.git"
+  },
+  "keywords": [
+    "functional",
+    "reactive",
+    "visualization"
+  ],
+  "author": "AlanisHomenick",
+  "license": "MIT",
+  "homepage": "https://github.com/CarsonMayert/aspernatureos.git",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "express": "^4.0.0",
+    "body-parser": "^1.2.0",
+    "gulp": "^3.6.2",
+    "gulp-docco": "0.0.4",
+    "gulp-jshint": "^1.5.5",
+    "gulp-mocha": "^0.4.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-requirejs": "^0.1.3",
+    "gulp-uglify": "^0.2.1",
+    "jshint-stylish": "^0.1.5",
+    "requirejs": "^2.1.11"
+  }
+}
